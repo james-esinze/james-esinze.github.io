@@ -7,17 +7,9 @@ author_profile: true
 ---
 
 layout: splash
-title: "James Esinze Isabirye"
-subtitle: "Legal and Finance Professional"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/header.jpg  # Replace with your header image path
-  actions:
-    - label: "Contact Me"
-      url: "mailto:jamesesinze@gmail.com"
-excerpt: "A passionate professional in Law and Finance, aiming to contribute decisively and creatively toward organizational success."
----
+# Curriculum Vitae - James Esinze Isabirye
+Legal and Finance Professional
+
 
 ## Career Statement
 
