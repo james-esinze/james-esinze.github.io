@@ -17,7 +17,7 @@ title: James Esinze Isabirye
 email: jamesesinze@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Financial and Legal Consultant
-twitter_username: username
+#twitter_username: username
 github_username: james-esinze
 minimal_mistakes_skin: dark
 search: true
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "James Esinze Isabirye"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/067.JPG"
   bio    : "Finance and Legal Consultation"
   links:
     - label: "LinkdeIn"
