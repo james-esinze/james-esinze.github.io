@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Achievements"
 layout: categories
-permalink: /categories/
+permalink: /achievemnts/
 author_profile: true
 ---
