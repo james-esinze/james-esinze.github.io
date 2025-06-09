@@ -5,7 +5,8 @@
 layout: home
 author_profile: true
 ---
-layout: single
+
+layout: splash
 title: "James Esinze Isabirye"
 subtitle: "Legal and Finance Professional"
 header:
@@ -105,4 +106,3 @@ Email: [telvinmuia@gmail.com](mailto:telvinmuia@gmail.com)
 Director, Gathu & Biraali Ltd / Manager, Isanga Purified Water  
 Phone: +254 712 097 886  
 Email: [yuriklaus2@gmail.com](mailto:yuriklaus2@gmail.com)
-
