@@ -1,5 +1,5 @@
 ---
-title: "Achievements"
+title: "achievements"
 layout: single
 permalink: /achievements/
 author_profile: true
