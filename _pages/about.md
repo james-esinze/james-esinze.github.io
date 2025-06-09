@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "about"
 ---
 
 I am a driven and ambitious professional seeking to build a progressive career in **Law and Finance**, with the goal of gaining valuable experience alongside industry leaders. I am committed to maintaining a positive, solutions-oriented mindset while demonstrating sound financial acumen and strong technical knowledge.
