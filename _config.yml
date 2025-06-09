@@ -15,38 +15,22 @@
 # in the templates via {{ site.myvariable }}.
 title: James Esinze Isabirye
 email: jamesesinze@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Financial and Legal Consultant
-#twitter_username: username
+description: >-
+  Financial and Legal Consultant
 github_username: james-esinze
 minimal_mistakes_skin: dark
 search: true
 
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -60,30 +44,23 @@ author:
   avatar : "/assets/images/067.JPG"
   bio    : "Finance and Legal Consultation"
   links:
-    - label: "LinkdeIn"
-      icon: "fab fa-linkdein"
-      url: "https://linkedin.com/james-esinze/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/james-esinze/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/james-esinze/"
-   # - label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-     # url: "https://instagram.com/"
+      url: "https://github.com/james-esinze"
 
 footer:
   links:
-    - #label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/james-esinze"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -94,7 +71,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
@@ -104,6 +80,12 @@ defaults:
 
 category_archive:
   type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
   path: /categories/
 tag_archive:
   type: liquid
